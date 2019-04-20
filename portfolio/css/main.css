@@ -12,3 +12,9 @@ body {
     background-color: mediumpurple;
     float: left;
 }
+#box3 {
+    background-color: indianred;
+    clear:both;
+    float:left;
+}
+
