@@ -26,5 +26,61 @@ body {
     width: 100px;
     height: 100px;
 }
+#fullborder {
+    border: black solid thin;
+}
 
-.
+#wrapper {
+    width: 965px
+    height: 1554px
+    margin-left: auto;
+    margin-right: auto;
+}
+#content {
+    width: 545px;
+    padding-right: 26px;
+    padding-left: 27px;
+    float: left;
+    font-size: 17px;
+    line-height: 27px;
+}
+#content h1{
+    font-size: : 41px
+    line-height:64px;
+}
+#content h2 {
+    font-size: 32px;
+    line-height: 53px;
+}
+
+#content h3 {
+    font-size: 27px;
+    line-height: 40px;
+}
+
+#content h4 {
+    font-size: 21px;
+    line-height: 35px;
+}
+
+#content h5 {
+    font-size: 18px;
+    line-height: 26px;
+}
+
+#content h6 {
+    font-size: 15px;
+    line-height: 25px;
+}
+
+#sidebar {
+    width: 366px;
+    float: left;
+}
+
+#footer {
+    clear: both;
+
+
+
+
