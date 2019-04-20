@@ -17,4 +17,8 @@ body {
     clear:both;
     float:left;
 }
+#box4 {
+    background-color: yellow;
+    float:left;
+}
 
