@@ -1,0 +1,10 @@
+body {
+    background-color: white;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-weight: 400;
+}
+
+#box1 {
+    background-color: deepskyblue;
+    float: left;
+}
